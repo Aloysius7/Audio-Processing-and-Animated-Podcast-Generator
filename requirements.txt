@@ -1,0 +1,6 @@
+pyannote.audio
+manim
+pandas
+pydub
+onnxruntime
+streamlit
